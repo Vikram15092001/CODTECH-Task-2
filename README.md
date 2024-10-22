@@ -6,7 +6,7 @@ Duration: Octomber to November 2024
 
       Overview of the Student Management System 
 Objective:
-The Student Management System (SMS) is designed to efficiently manage student records, including registration, grade calculation, and personal details, using C++. The system provides functionality for adding, editing, and deleting student information, as well as calculating and displaying their grades.
+The Student Management System is designed to efficiently manage student records, including registration, grade calculation, and personal details, using C++. The system provides functionality for adding, editing, and deleting student information, as well as calculating and displaying their grades.
 
 Key Features:
 Student Registration:
